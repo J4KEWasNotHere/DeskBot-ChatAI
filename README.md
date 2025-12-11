@@ -49,7 +49,7 @@ Or simply right-click, and _open with Python_.
 ---
 
 ## Where to configure
-- API endpoint: `c:\Users\HP\Desktop\Chatter\modules\bot.py` - change `self.api_url` to point to another text-generation endpoint.
+- API endpoint: `...\Folder\modules\bot.py` - change `self.api_url` to point to another text-generation endpoint.
 - Conversation length: `max_history_messages` in ChatBot controls how many messages are kept.
 
 ---
