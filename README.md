@@ -1,6 +1,7 @@
 # 🗣️ DeskBot - AI ChatBot
 
-A very minimal, lightweight desktop chat UI that **connects to a simple text-generation API endpoint**; using **[Pollinations.AI](https://github.com/pollinations/pollinations/blob/main/APIDOCS.md)**.  
+A very minimal, lightweight desktop chat UI that **connects to a simple text-generation API endpoint**; using **[Pollinations.AI](https://github.com/pollinations/pollinations/blob/main/APIDOCS.md)**.
+
 Built with [CustomTkinter](https://customtkinter.tomschimansky.com/) for an easy-to-use interface and a small ChatBot module to manage conversation state and commands.
 
 ---
