@@ -13,6 +13,7 @@ Built with [CustomTkinter](https://customtkinter.tomschimansky.com/) for an easy
   - `/r` - reset conversation history
   - `/help` - show available commands
 - 🧾 Conversation history with a configurable message limit
+- 🔓 Run & Go - No API Key required
 
 ---
 
