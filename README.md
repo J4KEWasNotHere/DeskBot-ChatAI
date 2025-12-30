@@ -67,6 +67,7 @@ Or simply right-click, and _open with Python_.
 - Increase `timeout` in `requests.get` if you face slow responses.
 - The app is intentionally minimal - adapt the prompt or UI to your needs.
 - If you want to make it executable, head to [PyInstaller's Documentation](https://pyinstaller.org/en/stable/).
+- Pollinations API endpoint can take other seperate arguments.
 
 ---
 
